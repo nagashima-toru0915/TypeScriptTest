@@ -1,0 +1,2 @@
+# TypeScriptTest
+タイプスクリプトのテストです。
